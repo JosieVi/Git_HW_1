@@ -3,12 +3,12 @@
   "Summary": "Login: Error messages in the login from are displayed in English",
   "Environment": "All browsers / devices",
   "Severity": "Major",
-  "Steps for reproduce: [
+  "Steps for reproduce": [
     "1. Open https://",
     "2. Follow 'Inloggen' link",
     "3. Fill required fields with invalid data",
     "4. Click 'Inloggen' button",
-    "5. Pay attention to error messages",
+    "5. Pay attention to error messages"
   ],
   "Actual results": "Error messages in the login form are displayed in English",
   "Expected results": "Error messages in the login form are displayed in the chosen language"
